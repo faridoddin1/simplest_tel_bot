@@ -2,7 +2,7 @@
 import telebot
 
 # Replace YOUR_BOT_TOKEN with your actual bot token
-BOT_TOKEN = "5928971447:AAFjTBiVHbm1SwNm7GTAmljOTIpJTHnJ_VQ"
+BOT_TOKEN = "6189969696:AAHPywUm9GNur1b7jYCFjUueWlKyGd14iLc"
 
 # Create a new Telegram bot object
 bot = telebot.TeleBot(BOT_TOKEN)
